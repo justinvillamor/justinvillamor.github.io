@@ -4,21 +4,22 @@
   display: inline-block;
   height: 20px;
   width: 80px;
-  background-color: black;
   color: white;
 }
-
+.navbar {
+  margin-left: 950px;
+}
 #name {
   font-size: 50px;
-  position: relative;
+  position: absolute;
   color: white;
+  margin-left: 20px;
+  margin-top: 550px;
 
 }
 
 #background {
-    width: 500px;
-    height: 500px;
-    position: absolute;
+    position: fixed;
     left: 0px;
     top: 0px;
     z-index: -1;
