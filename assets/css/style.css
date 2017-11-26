@@ -8,16 +8,16 @@
 }
 
 .navbar {
-  margin-left: 950px;
+  margin-left: 1050px;
 }
 
 #name {
-  font-size: 60px;
+  font-size: 45px;
   position: absolute;
   color: white;
-  margin-left: 20px;
-  margin-top: 550px;
   font-family: 'Lato';
+  top: 0px;
+  font-weight: bold;
 
 }
 
