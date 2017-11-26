@@ -1,20 +1,23 @@
 .button-container {
   float: left;
-  margin-right: 20px;
   display: inline-block;
   height: 20px;
-  width: 80px;
+  margin-left: 20px;
   color: white;
+  font-family: 'Lato';
 }
+
 .navbar {
   margin-left: 950px;
 }
+
 #name {
-  font-size: 50px;
+  font-size: 60px;
   position: absolute;
   color: white;
   margin-left: 20px;
   margin-top: 550px;
+  font-family: 'Lato';
 
 }
 
