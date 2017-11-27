@@ -149,7 +149,7 @@ a:visited {
 }
 
 .dish-background-active{
-  background-image: url("../img/dish.jpg");
+  background-image: url("../img/dish.JPG");
   height: 100%;
   width: 100%;
   background-position: center;
@@ -161,7 +161,7 @@ a:visited {
 }
 
 .food-background-active{
-  background-image: url("../img/food.jpg");
+  background-image: url("../img/food.JPG");
   height: 100%;
   width: 100%;
   background-position: center;
@@ -173,7 +173,7 @@ a:visited {
 }
 
 .young-background-active{
-  background-image: url("../img/young.jpg");
+  background-image: url("../img/young.JPG");
   height: 100%;
   width: 100%;
   background-position: center;
@@ -185,7 +185,7 @@ a:visited {
 }
 
 .hike-background-active{
-  background-image: url("../img/hike.jpg");
+  background-image: url("../img/hike.JPG");
   height: 100%;
   width: 100%;
   background-position: center;
@@ -197,7 +197,7 @@ a:visited {
 }
 
 .beach-background-active{
-  background-image: url("../img/beach.jpg");
+  background-image: url("../img/beach.JPG");
   height: 100%;
   width: 100%;
   background-position: center;
@@ -209,7 +209,7 @@ a:visited {
 }
 
 .game-background-active{
-  background-image: url("../img/game.jpg");
+  background-image: url("../img/game.JPG");
   height: 100%;
   width: 100%;
   background-position: center;
