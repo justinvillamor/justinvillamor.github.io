@@ -1,5 +1,6 @@
-body {
+body, html {
   margin: 0;
+  height: 100%;
 }
 a:link {
   color: white;
@@ -59,11 +60,15 @@ a:visited {
   font-family: 'Lato';
 }
 
-#background {
-    position: fixed;
-    left: 0px;
-    top: 0px;
-    z-index: -1;
+.background {
+  background-image: url("../img/berkeley.jpg");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: fixed;
 }
 .container {
   position: relative;
@@ -96,4 +101,8 @@ a:visited {
   margin-left: 50%;
   font-family: 'Lato';
   color: white;
+}
+
+.tech:hover, .dish:hover, .toys:hover, .berk:hover {
+  cursor: pointer;
 }
