@@ -126,6 +126,7 @@ a:visited {
   font-family: 'Lato';
   color: white;
   margin-right: 10px;
+  z-index: 2;
 }
 .x-button {
   position: absolute;
@@ -276,7 +277,8 @@ a:visited {
   font-family: 'Lato';
   margin-left: 1130px;
   margin-top: 15px;
-  z-index: 0;
+  height: auto;
+  width: auto;
 }
 .con-navbar2 {
   position: absolute;
@@ -285,6 +287,8 @@ a:visited {
   font-family: 'Lato';
   margin-left: 1110px;
   margin-top: 15px;
+  height: auto;
+  width: auto;
 }
 .home-button {
   padding: 3px;
@@ -305,6 +309,8 @@ a:visited {
   border-width: thin;
   border-color: white;
   border-radius: 20px;
+  height: auto;
+  width: auto;
 }
 
 .connect-button {
@@ -316,6 +322,8 @@ a:visited {
   border-width: thin;
   border-color: white;
   border-radius: 20px;
+  height: auto;
+  width: auto;
 
 }
 
