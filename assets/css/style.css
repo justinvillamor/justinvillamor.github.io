@@ -334,3 +334,20 @@ a:visited {
   opacity: 0.6;
   transition: 0.3s;
 }
+
+.fb:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
+.ig:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
+.linkedin:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
+.twitter:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
