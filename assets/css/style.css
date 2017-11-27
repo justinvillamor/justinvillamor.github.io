@@ -21,6 +21,17 @@ a:visited {
   border-style: solid;
   border-color: white;
   border-radius: 10px;
+  padding: 2px;
+}
+
+.button-container:hover {
+  opacity: 0.4;
+  transition: 0.3s;
+}
+
+.button-container2:hover {
+  opacity: 0.4;
+  transition: 0.3s;
 }
 
 .button-container2 {
@@ -34,10 +45,11 @@ a:visited {
   border-style: solid;
   border-color: white;
   border-radius: 10px;
+  padding: 2px;
 }
 
 .navbar {
-  margin-left: 740px;
+  margin-left: 734px;
   margin-top: 200px;
   position: absolute;
 }
@@ -252,4 +264,62 @@ a:visited {
   font-size: 40px;
   margin-top: 40px;
   margin-left: 40px;
+}
+
+.con-navbar {
+  position: absolute;
+  color: white;
+  float: left;
+  font-family: 'Lato';
+  margin-left: 1130px;
+  margin-top: 15px;
+}
+.home-button {
+  padding: 3px;
+  float: left;
+  margin-right: 10px;
+  display: inline-block;
+  border-style: solid;
+  border-width: thin;
+  border-color: white;
+  border-radius: 20px;
+}
+.about-button {
+  padding: 3px;
+  float: left;
+  margin-right: 0px;
+  display: inline-block;
+  border-style: solid;
+  border-width: thin;
+  border-color: white;
+  border-radius: 20px;
+}
+
+.connect-button {
+  padding: 3px;
+  float: left;
+  margin-right: 0px;
+  display: inline-block;
+  border-style: solid;
+  border-width: thin;
+  border-color: white;
+  border-radius: 20px;
+}
+
+.about-button:hover {
+  cursor: pointer;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.home-button:hover {
+  cursor: pointer;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.connect-button:hover {
+  cursor: pointer;
+  opacity: 0.6;
+  transition: 0.3s;
 }
