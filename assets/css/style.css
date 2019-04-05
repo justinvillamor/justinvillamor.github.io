@@ -67,7 +67,7 @@ a:visited {
 }
 
 #desc {
-  margin-left: 780px;
+  margin-left: 775px;
   margin-top: 195px;
   position: absolute;
   color: white;
@@ -102,7 +102,7 @@ a:visited {
   width: 800px;
   border-style: solid;
   border-width: thin;
-  border-color: white;
+  border-color: transparent;
   border-radius: 30px;
   margin: 0 auto;
   top: 50%;
@@ -117,6 +117,7 @@ a:visited {
   margin-left: 35px;
 }
 .me {
+  background-image: url("../img/me.JPG");
   border-radius: 25px;
 }
 

@@ -4,6 +4,7 @@ $(document).ready(function() {
     if ($("body").hasClass("about-background-active")) {
       $("body").removeClass("about-background-active");
       $("body").addClass("container");
+
     }
     if ($("body").hasClass("dish-background-active")) {
       $("body").removeClass("dish-background-active");
